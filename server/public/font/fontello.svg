@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="fast-fw" unicode="&#xe800;" d="M25-71q-10-11-18-8t-7 18v822q0 14 7 18t18-8l396-396q5-4 8-10v396q0 14 7 18t18-8l396-396q11-10 11-25t-11-25l-396-396q-11-11-18-8t-7 18v397q-3-6-8-11z" horiz-adv-x="928.6" />
+
+<glyph glyph-name="blank" unicode="&#xf0c8;" d="M857 618v-536q0-66-47-113t-114-48h-535q-67 0-114 48t-47 113v536q0 66 47 113t114 48h535q67 0 114-48t47-113z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="exchange" unicode="&#xf0ec;" d="M1000 189v-107q0-7-5-12t-13-6h-768v-107q0-7-5-12t-13-6q-6 0-13 6l-178 178q-5 6-5 13 0 8 5 13l179 178q5 5 12 5 8 0 13-5t5-13v-107h768q7 0 13-5t5-13z m0 304q0-8-5-13l-179-178q-5-6-12-6-8 0-13 6t-5 12v107h-768q-7 0-13 6t-5 12v107q0 8 5 13t13 5h768v107q0 8 5 13t13 5q6 0 13-5l178-178q5-5 5-13z" horiz-adv-x="1000" />
+
+<glyph glyph-name="soccer-ball" unicode="&#xf1e3;" d="M340 395l160 116 160-116-61-188h-198z m160 455q102 0 194-40t160-106 106-160 40-194-40-194-106-160-160-106-194-40-194 40-160 106-106 160-40 194 40 194 106 160 160 106 194 40z m345-753q84 113 84 253v2l-57-50-134 125 35 180 75-6q-84 115-217 157l29-69-160-89-160 89 29 69q-133-42-217-157l76 6 34-180-134-125-57 50v-2q0-140 84-253l16 73 182-22 78-166-65-39q65-22 134-22t134 22l-65 39 78 166 182 22z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
